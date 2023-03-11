@@ -6,12 +6,12 @@
 **Installation:**
 
 Windows:
-```
-git clone https://github.com/NonTrusted/WINTO10-Windows-Activator
-cd WINTO10-Windows-Activator
-pip install colorama
-python Windows-Activator.py
-```
+
+1. Click on `Code`
+2. Click `Download ZIP`
+3. Extract `WINTO10-Windows-Activator-main.zip`
+4. Open the folder
+5. Run `Windows-Activator.py`
 
 Linux:
 ```
