@@ -5,16 +5,12 @@
 
 **Installation:**
 
-Windows:
-
 1. Click on `Code`
 2. Click `Download ZIP`
 3. Extract `WINTO10-Windows-Activator-main.zip`
 4. Open the folder
-5. Run `Windows-Activator.py`
-
-Linux:
-1. `git clone https://github.com/NonTrusted/WINTO10-Windows-Activator`
-2. `cd WINTO10-Windows-Activator`
-3. `pip3 install colorama`
-4. `python3 Windows-Activator.py`
+5. Open CMD in that folder
+6. Type `pip install pyinstaller`
+7. Type `pyinstaller --onefile Windows-Activator.py`
+8. Open dist folder created after PyInstaller process
+9. Run Windows-Activator.exe as Administrator
