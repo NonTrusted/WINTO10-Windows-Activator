@@ -14,9 +14,7 @@ Windows:
 5. Run `Windows-Activator.py`
 
 Linux:
-```
-git clone https://github.com/NonTrusted/WINTO10-Windows-Activator
-cd WINTO10-Windows-Activator
-pip3 install colorama
-python3 Windows-Activator.py
-```
+1. `git clone https://github.com/NonTrusted/WINTO10-Windows-Activator`
+2. `cd WINTO10-Windows-Activator`
+3. `pip3 install colorama`
+4. `python3 Windows-Activator.py`
