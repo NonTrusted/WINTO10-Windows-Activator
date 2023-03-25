@@ -21,7 +21,7 @@ print(f"""{Fore.WHITE}
 main = input("      > ")
 
 if main == "1":
-    os.system("slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX")
+    os.system("slmgr /ipk AKSIU-WY2CT-JWBJ2-T68TQ-YBH2V")
     os.system("slmgr /skms kms8.msguides.com")
     os.system("slmgr /ato")
 
